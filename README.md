@@ -5,7 +5,3 @@ Constructor_Hangman is my Week 11 homework assignment for the UC Berkeley Coding
 <h1>User Instructions</h1>
 <h3>Requirements</h3>
 - Command-line application such as Terminal
-<h3>Setup</h3>
-<p>1. </p>
-<p>2. </p>
-<p>3. </p>
